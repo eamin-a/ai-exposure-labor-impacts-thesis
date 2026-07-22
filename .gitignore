@@ -1,2 +1,5 @@
+# Ignore the large IPUMS CPS extract file
 cps_*.csv
+
+# Prevent Mac system hidden files from uploading
 .DS_Store
