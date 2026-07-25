@@ -1,8 +1,0 @@
-2018 SOC Code,dv_rating_alpha,dv_rating_beta,dv_rating_gamma,many_to_one,2018 SOC Title,Sort Order,National Employment Matrix code,National Employment Matrix title,CPS code,CPS occupation title,title_str,_merge,CPS from title,_merge2
-13-1021,0.0555555555555555,0.5277777777777778,1.0,False,"Buyers and Purchasing Agents, Farm Products",,,,,,"buyers and purchasing agents, farm products",left_only,510.0,both
-13-1022,0.0333333333333333,0.4666666666666667,0.9,False,"Wholesale and Retail Buyers, Except Farm Products",,,,,,"wholesale and retail buyers, except farm products",left_only,520.0,both
-13-1023,0.0526315789473684,0.4736842105263157,0.894736842105263,False,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",,,,,,"purchasing agents, except wholesale, retail, and farm products",left_only,530.0,both
-21-1011,0.0888888888888888,0.2,0.3111111111111111,False,Substance Abuse and Behavioral Disorder Counselors,,,,,,substance abuse and behavioral disorder counselors,left_only,2001.0,both
-21-1014,0.0784313725490196,0.2549019607843137,0.4313725490196078,False,Mental Health Counselors,,,,,,mental health counselors,left_only,2004.0,both
-31-1121,0.0769230769230769,0.0769230769230769,0.0769230769230769,False,Home Health Aides,,,,,,home health aides,left_only,3601.0,both
-31-1122,0.1666666666666666,0.2222222222222222,0.2777777777777778,False,Personal Care Aides,,,,,,personal care aides,left_only,3602.0,both
