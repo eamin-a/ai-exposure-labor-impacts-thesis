@@ -1,0 +1,188 @@
+teleworkable,ONET Code,ONET Title,SOC Code,SOC Title,OEWS Code,OEWS Title,CPS Code,CPS Title,manual_soc_to_cps,agg_level_ONET,teleworkable_std_ONET
+1.0,11-1011.00,Chief Executives,11-1011,Chief Executives,11-1011,Chief executives,10,Chief executives,False,True,0.0
+1.0,11-1011.03,Chief Sustainability Officers,11-1011,Chief Executives,11-1011,Chief executives,10,Chief executives,False,True,0.0
+1.0,11-3013.00,Facilities Managers,11-3013,Facilities Managers,11-3013,Facilities managers,102,Facilities managers,False,True,0.0
+1.0,11-3013.01,Security Managers,11-3013,Facilities Managers,11-3013,Facilities managers,102,Facilities managers,False,True,0.0
+1.0,11-3031.00,Financial Managers,11-3031,Financial Managers,11-3031,Financial managers,120,Financial managers,False,True,0.0
+1.0,11-3031.01,Treasurers and Controllers,11-3031,Financial Managers,11-3031,Financial managers,120,Financial managers,False,True,0.0
+1.0,11-3031.03,Investment Fund Managers,11-3031,Financial Managers,11-3031,Financial managers,120,Financial managers,False,True,0.0
+0.0,11-3051.00,Industrial Production Managers,11-3051,Industrial Production Managers,11-3051,Industrial production managers,140,Industrial production managers,False,True,0.0
+0.0,11-3051.01,Quality Control Systems Managers,11-3051,Industrial Production Managers,11-3051,Industrial production managers,140,Industrial production managers,False,True,0.0
+0.0,11-3051.02,Geothermal Production Managers,11-3051,Industrial Production Managers,11-3051,Industrial production managers,140,Industrial production managers,False,True,0.0
+0.0,11-3051.03,Biofuels Production Managers,11-3051,Industrial Production Managers,11-3051,Industrial production managers,140,Industrial production managers,False,True,0.0
+0.0,11-3051.04,Biomass Power Plant Managers,11-3051,Industrial Production Managers,11-3051,Industrial production managers,140,Industrial production managers,False,True,0.0
+0.0,11-3051.06,Hydroelectric Production Managers,11-3051,Industrial Production Managers,11-3051,Industrial production managers,140,Industrial production managers,False,True,0.0
+0.6666666666666666,11-3071.00,"Transportation, Storage, and Distribution Managers",11-3071,"Transportation, Storage, and Distribution Managers",11-3071,"Transportation, storage, and distribution managers",160,"Transportation, storage, and distribution managers",False,True,0.23570226039551592
+1.0,11-3071.04,Supply Chain Managers,11-3071,"Transportation, Storage, and Distribution Managers",11-3071,"Transportation, storage, and distribution managers",160,"Transportation, storage, and distribution managers",False,True,0.23570226039551592
+1.0,11-9041.00,Architectural and Engineering Managers,11-9041,Architectural and Engineering Managers,11-9041,Architectural and engineering managers,300,Architectural and engineering managers,False,True,0.7071067811865476
+0.0,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,11-9041,Architectural and Engineering Managers,11-9041,Architectural and engineering managers,300,Architectural and engineering managers,False,True,0.7071067811865476
+1.0,11-9121.00,Natural Sciences Managers,11-9121,Natural Sciences Managers,11-9121,Natural sciences managers,360,Natural sciences managers,False,True,0.0
+1.0,11-9121.01,Clinical Research Coordinators,11-9121,Natural Sciences Managers,11-9121,Natural sciences managers,360,Natural sciences managers,False,True,0.0
+1.0,11-9121.02,Water Resource Specialists,11-9121,Natural Sciences Managers,11-9121,Natural sciences managers,360,Natural sciences managers,False,True,0.0
+1.0,11-9179.01,Fitness and Wellness Coordinators,11-9179,"Personal Service Managers, All Other",11-9179,"Personal service managers, all other",440,Other managers,False,True,0.7071067811865476
+0.0,11-9179.02,Spa Managers,11-9179,"Personal Service Managers, All Other",11-9179,"Personal service managers, all other",440,Other managers,False,True,0.7071067811865476
+1.0,11-9199.01,Regulatory Affairs Managers,11-9199,"Managers, All Other",11-9199,"Managers, all other",440,Other managers,False,True,0.408248290463863
+1.0,11-9199.02,Compliance Managers,11-9199,"Managers, All Other",11-9199,"Managers, all other",440,Other managers,False,True,0.408248290463863
+1.0,11-9199.08,Loss Prevention Managers,11-9199,"Managers, All Other",11-9199,"Managers, all other",440,Other managers,False,True,0.408248290463863
+0.0,11-9199.09,Wind Energy Operations Managers,11-9199,"Managers, All Other",11-9199,"Managers, all other",440,Other managers,False,True,0.408248290463863
+1.0,11-9199.10,Wind Energy Development Managers,11-9199,"Managers, All Other",11-9199,"Managers, all other",440,Other managers,False,True,0.408248290463863
+1.0,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,11-9199,"Managers, All Other",11-9199,"Managers, all other",440,Other managers,False,True,0.408248290463863
+0.0,13-1041.00,Compliance Officers,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+0.0,13-1041.01,Environmental Compliance Inspectors,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+1.0,13-1041.03,Equal Opportunity Representatives and Officers,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+1.0,13-1041.04,Government Property Inspectors and Investigators,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+0.0,13-1041.06,Coroners,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+1.0,13-1041.07,Regulatory Affairs Specialists,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+1.0,13-1041.08,Customs Brokers,13-1041,Compliance Officers,13-1041,Compliance officers,565,Compliance officers,False,True,0.5345224838248488
+1.0,13-1081.00,Logisticians,13-1081,Logisticians,13-1081,Logisticians,700,Logisticians,False,True,0.0
+1.0,13-1081.01,Logistics Engineers,13-1081,Logisticians,13-1081,Logisticians,700,Logisticians,False,True,0.0
+1.0,13-1081.02,Logistics Analysts,13-1081,Logisticians,13-1081,Logisticians,700,Logisticians,False,True,0.0
+1.0,13-1161.00,Market Research Analysts and Marketing Specialists,13-1161,Market Research Analysts and Marketing Specialists,13-1161,Market research analysts and marketing specialists,735,Market research analysts and marketing specialists,False,True,0.0
+1.0,13-1161.01,Search Marketing Strategists,13-1161,Market Research Analysts and Marketing Specialists,13-1161,Market research analysts and marketing specialists,735,Market research analysts and marketing specialists,False,True,0.0
+1.0,13-1199.04,Business Continuity Planners,13-1199,"Business Operations Specialists, All Other",13-1199,"Business operations specialists, all other",750,"Business operations specialists, all other",False,True,0.0
+1.0,13-1199.05,Sustainability Specialists,13-1199,"Business Operations Specialists, All Other",13-1199,"Business operations specialists, all other",750,"Business operations specialists, all other",False,True,0.0
+1.0,13-1199.06,Online Merchants,13-1199,"Business Operations Specialists, All Other",13-1199,"Business operations specialists, all other",750,"Business operations specialists, all other",False,True,0.0
+1.0,13-1199.07,Security Management Specialists,13-1199,"Business Operations Specialists, All Other",13-1199,"Business operations specialists, all other",750,"Business operations specialists, all other",False,True,0.0
+1.0,13-2099.01,Financial Quantitative Analysts,13-2099,"Financial Specialists, All Other",13-2099,"Financial specialists, all other",960,Other financial specialists,False,True,0.0
+1.0,13-2099.04,"Fraud Examiners, Investigators and Analysts",13-2099,"Financial Specialists, All Other",13-2099,"Financial specialists, all other",960,Other financial specialists,False,True,0.0
+1.0,15-1211.00,Computer Systems Analysts,15-1211,Computer Systems Analysts,15-1211,Computer systems analysts,1006,Computer systems analysts,False,True,0.0
+1.0,15-1211.01,Health Informatics Specialists,15-1211,Computer Systems Analysts,15-1211,Computer systems analysts,1006,Computer systems analysts,False,True,0.0
+1.0,15-1241.00,Computer Network Architects,15-1241,Computer Network Architects,15-1241,Computer network architects,1106,Computer network architects,False,True,0.0
+1.0,15-1241.01,Telecommunications Engineering Specialists,15-1241,Computer Network Architects,15-1241,Computer network architects,1106,Computer network architects,False,True,0.0
+1.0,15-1243.00,Database Architects,15-1243,Database Architects,15-1243,Database architects,1065,Database administrators and architects,False,True,0.0
+1.0,15-1243.01,Data Warehousing Specialists,15-1243,Database Architects,15-1243,Database architects,1065,Database administrators and architects,False,True,0.0
+1.0,15-1255.00,Web and Digital Interface Designers,15-1255,Web and Digital Interface Designers,15-1255,Web and digital interface designers,1032,Web and digital interface designers,False,True,0.0
+1.0,15-1255.01,Video Game Designers,15-1255,Web and Digital Interface Designers,15-1255,Web and digital interface designers,1032,Web and digital interface designers,False,True,0.0
+1.0,15-1299.01,Web Administrators,15-1299,"Computer Occupations, All Other",15-1299,"Computer occupations, all other",1108,"Computer occupations, all other",False,True,0.0
+1.0,15-1299.02,Geographic Information Systems Technologists and Technicians,15-1299,"Computer Occupations, All Other",15-1299,"Computer occupations, all other",1108,"Computer occupations, all other",False,True,0.0
+1.0,15-1299.03,Document Management Specialists,15-1299,"Computer Occupations, All Other",15-1299,"Computer occupations, all other",1108,"Computer occupations, all other",False,True,0.0
+1.0,15-1299.08,Computer Systems Engineers/Architects,15-1299,"Computer Occupations, All Other",15-1299,"Computer occupations, all other",1108,"Computer occupations, all other",False,True,0.0
+1.0,15-1299.09,Information Technology Project Managers,15-1299,"Computer Occupations, All Other",15-1299,"Computer occupations, all other",1108,"Computer occupations, all other",False,True,0.0
+1.0,15-2041.00,Statisticians,15-2041,Statisticians,15-2041,Statisticians,1240,Other mathematical science occupations,False,True,0.0
+1.0,15-2041.01,Biostatisticians,15-2041,Statisticians,15-2041,Statisticians,1240,Other mathematical science occupations,False,True,0.0
+1.0,15-2051.01,Business Intelligence Analysts,15-2051,Data Scientists,15-2051,Data scientists,1240,Other mathematical science occupations,False,True,0.0
+1.0,15-2051.02,Clinical Data Managers,15-2051,Data Scientists,15-2051,Data scientists,1240,Other mathematical science occupations,False,True,0.0
+0.0,17-1022.00,Surveyors,17-1022,Surveyors,17-1022,Surveyors,1310,"Surveyors, cartographers, and photogrammetrists",False,True,0.7071067811865476
+1.0,17-1022.01,Geodetic Surveyors,17-1022,Surveyors,17-1022,Surveyors,1310,"Surveyors, cartographers, and photogrammetrists",False,True,0.7071067811865476
+1.0,17-2051.00,Civil Engineers,17-2051,Civil Engineers,17-2051,Civil engineers,1360,Civil engineers,False,True,0.0
+1.0,17-2051.01,Transportation Engineers,17-2051,Civil Engineers,17-2051,Civil engineers,1360,Civil engineers,False,True,0.0
+1.0,17-2051.02,Water/Wastewater Engineers,17-2051,Civil Engineers,17-2051,Civil engineers,1360,Civil engineers,False,True,0.0
+1.0,17-2072.00,"Electronics Engineers, Except Computer",17-2072,"Electronics Engineers, Except Computer",17-2072,"Electronics engineers, except computer",1410,Electrical and electronics engineers,False,True,0.0
+1.0,17-2072.01,Radio Frequency Identification Device Specialists,17-2072,"Electronics Engineers, Except Computer",17-2072,"Electronics engineers, except computer",1410,Electrical and electronics engineers,False,True,0.0
+0.0,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,"Health and safety engineers, except mining safety engineers and inspectors",1430,"Industrial engineers, including health and safety",False,True,0.7071067811865476
+1.0,17-2111.02,Fire-Prevention and Protection Engineers,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,"Health and safety engineers, except mining safety engineers and inspectors",1430,"Industrial engineers, including health and safety",False,True,0.7071067811865476
+0.0,17-2112.00,Industrial Engineers,17-2112,Industrial Engineers,17-2112,Industrial engineers,1430,"Industrial engineers, including health and safety",False,True,0.5
+1.0,17-2112.01,Human Factors Engineers and Ergonomists,17-2112,Industrial Engineers,17-2112,Industrial engineers,1430,"Industrial engineers, including health and safety",False,True,0.5
+0.0,17-2112.02,Validation Engineers,17-2112,Industrial Engineers,17-2112,Industrial engineers,1430,"Industrial engineers, including health and safety",False,True,0.5
+0.0,17-2112.03,Manufacturing Engineers,17-2112,Industrial Engineers,17-2112,Industrial engineers,1430,"Industrial engineers, including health and safety",False,True,0.5
+0.0,17-2141.00,Mechanical Engineers,17-2141,Mechanical Engineers,17-2141,Mechanical engineers,1460,Mechanical engineers,False,True,0.5773502691896258
+0.0,17-2141.01,Fuel Cell Engineers,17-2141,Mechanical Engineers,17-2141,Mechanical engineers,1460,Mechanical engineers,False,True,0.5773502691896258
+1.0,17-2141.02,Automotive Engineers,17-2141,Mechanical Engineers,17-2141,Mechanical engineers,1460,Mechanical engineers,False,True,0.5773502691896258
+0.0,17-2199.03,"Energy Engineers, Except Wind and Solar",17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+1.0,17-2199.05,Mechatronics Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+1.0,17-2199.06,Microsystems Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+1.0,17-2199.07,Photonics Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+0.0,17-2199.08,Robotics Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+0.0,17-2199.09,Nanosystems Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+1.0,17-2199.10,Wind Energy Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+1.0,17-2199.11,Solar Energy Systems Engineers,17-2199,"Engineers, All Other",17-2199,"Engineers, all other",1530,Other engineers,False,True,0.5175491695067657
+0.0,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17-3024,Electro-mechanical and mechatronics technologists and technicians,1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3024.01,Robotics Technicians,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17-3024,Electro-mechanical and mechatronics technologists and technicians,1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3026.00,Industrial Engineering Technologists and Technicians,17-3026,Industrial Engineering Technologists and Technicians,17-3026,Industrial engineering technologists and technicians,1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3026.01,Nanotechnology Engineering Technologists and Technicians,17-3026,Industrial Engineering Technologists and Technicians,17-3026,Industrial engineering technologists and technicians,1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3027.00,Mechanical Engineering Technologists and Technicians,17-3027,Mechanical Engineering Technologists and Technicians,17-3027,Mechanical engineering technologists and technicians,1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3027.01,Automotive Engineering Technicians,17-3027,Mechanical Engineering Technologists and Technicians,17-3027,Mechanical engineering technologists and technicians,1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3029.01,Non-Destructive Testing Specialists,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17-3029,"Engineering technologists and technicians, except drafters, all other",1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+0.0,17-3029.08,Photonics Technicians,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17-3029,"Engineering technologists and technicians, except drafters, all other",1555,"Other engineering technologists and technicians, except drafters",False,True,0.0
+1.0,19-1029.01,Bioinformatics Scientists,19-1029,"Biological Scientists, All Other",19-1029,"Biological scientists, all other",1610,Biological scientists,False,True,0.5
+0.0,19-1029.02,Molecular and Cellular Biologists,19-1029,"Biological Scientists, All Other",19-1029,"Biological scientists, all other",1610,Biological scientists,False,True,0.5
+1.0,19-1029.03,Geneticists,19-1029,"Biological Scientists, All Other",19-1029,"Biological scientists, all other",1610,Biological scientists,False,True,0.5
+1.0,19-1029.04,Biologists,19-1029,"Biological Scientists, All Other",19-1029,"Biological scientists, all other",1610,Biological scientists,False,True,0.5
+1.0,19-1031.00,Conservation Scientists,19-1031,Conservation Scientists,19-1031,Conservation scientists,1640,Conservation scientists and foresters,False,True,0.5773502691896258
+0.0,19-1031.02,Range Managers,19-1031,Conservation Scientists,19-1031,Conservation scientists,1640,Conservation scientists and foresters,False,True,0.5773502691896258
+0.0,19-1031.03,Park Naturalists,19-1031,Conservation Scientists,19-1031,Conservation scientists,1640,Conservation scientists and foresters,False,True,0.5773502691896258
+1.0,19-2041.00,"Environmental Scientists and Specialists, Including Health",19-2041,"Environmental Scientists and Specialists, Including Health",19-2041,"Environmental scientists and specialists, including health",1745,"Environmental scientists and specialists, including health",False,True,0.0
+1.0,19-2041.01,Climate Change Policy Analysts,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041,"Environmental scientists and specialists, including health",1745,"Environmental scientists and specialists, including health",False,True,0.0
+1.0,19-2041.02,Environmental Restoration Planners,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041,"Environmental scientists and specialists, including health",1745,"Environmental scientists and specialists, including health",False,True,0.0
+1.0,19-2041.03,Industrial Ecologists,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041,"Environmental scientists and specialists, including health",1745,"Environmental scientists and specialists, including health",False,True,0.0
+1.0,19-3011.00,Economists,19-3011,Economists,19-3011,Economists,1800,Economists,False,True,0.0
+1.0,19-3011.01,Environmental Economists,19-3011,Economists,19-3011,Economists,1800,Economists,False,True,0.0
+1.0,19-3039.02,Neuropsychologists,19-3039,"Psychologists, All Other",19-3039,"Psychologists, all other",1825,Other psychologists,False,True,0.0
+1.0,19-3039.03,Clinical Neuropsychologists,19-3039,"Psychologists, All Other",19-3039,"Psychologists, all other",1825,Other psychologists,False,True,0.0
+0.0,19-4012.00,Agricultural Technicians,19-4012,Agricultural Technicians,19-4012,Agricultural technicians,1900,Agricultural and food science technicians,False,True,0.7071067811865476
+1.0,19-4012.01,Precision Agriculture Technicians,19-4012,Agricultural Technicians,19-4012,Agricultural technicians,1900,Agricultural and food science technicians,False,True,0.7071067811865476
+0.0,19-4051.00,Nuclear Technicians,19-4051,Nuclear Technicians,19-4051,Nuclear technicians,1935,"Environmental science and geoscience technicians, and nuclear technicians",False,True,0.0
+0.0,19-4051.02,Nuclear Monitoring Technicians,19-4051,Nuclear Technicians,19-4051,Nuclear technicians,1935,"Environmental science and geoscience technicians, and nuclear technicians",False,True,0.0
+0.0,19-4099.01,Quality Control Analysts,19-4099,"Life, Physical, and Social Science Technicians, All Other",19-4099,"Life, physical, and social science technicians, all other",1970,"Other life, physical, and social science technicians",False,True,0.7071067811865476
+1.0,19-4099.03,Remote Sensing Technicians,19-4099,"Life, Physical, and Social Science Technicians, All Other",19-4099,"Life, physical, and social science technicians, all other",1970,"Other life, physical, and social science technicians",False,True,0.7071067811865476
+0.5,27-2012.00,Producers and Directors,27-2012,Producers and Directors,27-2012,Producers and directors,2710,Producers and directors,False,True,0.47871355387816905
+0.0,27-2012.03,Media Programming Directors,27-2012,Producers and Directors,27-2012,Producers and directors,2710,Producers and directors,False,True,0.47871355387816905
+1.0,27-2012.04,Talent Directors,27-2012,Producers and Directors,27-2012,Producers and directors,2710,Producers and directors,False,True,0.47871355387816905
+0.0,27-2012.05,Media Technical Directors/Managers,27-2012,Producers and Directors,27-2012,Producers and directors,2710,Producers and directors,False,True,0.47871355387816905
+1.0,27-3043.00,Writers and Authors,27-3043,Writers and Authors,27-3043,Writers and authors,2850,Writers and authors,False,True,0.0
+1.0,27-3043.05,"Poets, Lyricists and Creative Writers",27-3043,Writers and Authors,27-3043,Writers and authors,2850,Writers and authors,False,True,0.0
+0.0,29-1071.00,Physician Assistants,29-1071,Physician Assistants,29-1071,Physician assistants,3110,Physician assistants,False,True,0.0
+0.0,29-1071.01,Anesthesiologist Assistants,29-1071,Physician Assistants,29-1071,Physician assistants,3110,Physician assistants,False,True,0.0
+0.0,29-1122.00,Occupational Therapists,29-1122,Occupational Therapists,29-1122,Occupational therapists,3150,Occupational therapists,False,True,0.0
+0.0,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",29-1122,Occupational Therapists,29-1122,Occupational therapists,3150,Occupational therapists,False,True,0.0
+1.0,29-1129.01,Art Therapists,29-1129,"Therapists, All Other",29-1129,"Therapists, all other",3245,Other therapists,False,True,0.0
+1.0,29-1129.02,Music Therapists,29-1129,"Therapists, All Other",29-1129,"Therapists, all other",3245,Other therapists,False,True,0.0
+0.0,29-1141.00,Registered Nurses,29-1141,Registered Nurses,29-1141,Registered nurses,3255,Registered nurses,False,True,0.0
+0.0,29-1141.01,Acute Care Nurses,29-1141,Registered Nurses,29-1141,Registered nurses,3255,Registered nurses,False,True,0.0
+0.0,29-1141.02,Advanced Practice Psychiatric Nurses,29-1141,Registered Nurses,29-1141,Registered nurses,3255,Registered nurses,False,True,0.0
+0.0,29-1141.03,Critical Care Nurses,29-1141,Registered Nurses,29-1141,Registered nurses,3255,Registered nurses,False,True,0.0
+0.0,29-1141.04,Clinical Nurse Specialists,29-1141,Registered Nurses,29-1141,Registered nurses,3255,Registered nurses,False,True,0.0
+0.0,29-1229.01,Allergists and Immunologists,29-1229,"Physicians, All Other",29-1229,"Physicians, all other",3090,Physicians,False,True,0.408248290463863
+0.0,29-1229.02,Hospitalists,29-1229,"Physicians, All Other",29-1229,"Physicians, all other",3090,Physicians,False,True,0.408248290463863
+0.0,29-1229.03,Urologists,29-1229,"Physicians, All Other",29-1229,"Physicians, all other",3090,Physicians,False,True,0.408248290463863
+0.0,29-1229.04,Physical Medicine and Rehabilitation Physicians,29-1229,"Physicians, All Other",29-1229,"Physicians, all other",3090,Physicians,False,True,0.408248290463863
+1.0,29-1229.05,Preventive Medicine Physicians,29-1229,"Physicians, All Other",29-1229,"Physicians, all other",3090,Physicians,False,True,0.408248290463863
+0.0,29-1229.06,Sports Medicine Physicians,29-1229,"Physicians, All Other",29-1229,"Physicians, all other",3090,Physicians,False,True,0.408248290463863
+0.0,29-1299.01,Naturopathic Physicians,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29-1299,"Healthcare diagnosing or treating practitioners, all other",3270,"Healthcare diagnosing or treating practitioners, all other",False,True,0.0
+0.0,29-1299.02,Orthoptists,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29-1299,"Healthcare diagnosing or treating practitioners, all other",3270,"Healthcare diagnosing or treating practitioners, all other",False,True,0.0
+0.0,29-2011.00,Medical and Clinical Laboratory Technologists,29-2011,Medical and Clinical Laboratory Technologists,29-2010,Clinical laboratory technologists and technicians,3300,Clinical laboratory technologists and technicians,False,True,0.0
+0.0,29-2011.01,Cytogenetic Technologists,29-2011,Medical and Clinical Laboratory Technologists,29-2010,Clinical laboratory technologists and technicians,3300,Clinical laboratory technologists and technicians,False,True,0.0
+0.0,29-2011.02,Cytotechnologists,29-2011,Medical and Clinical Laboratory Technologists,29-2010,Clinical laboratory technologists and technicians,3300,Clinical laboratory technologists and technicians,False,True,0.0
+0.0,29-2011.04,Histotechnologists,29-2011,Medical and Clinical Laboratory Technologists,29-2010,Clinical laboratory technologists and technicians,3300,Clinical laboratory technologists and technicians,False,True,0.0
+0.0,29-2012.00,Medical and Clinical Laboratory Technicians,29-2012,Medical and Clinical Laboratory Technicians,29-2010,Clinical laboratory technologists and technicians,3300,Clinical laboratory technologists and technicians,False,True,0.0
+0.0,29-2012.01,Histology Technicians,29-2012,Medical and Clinical Laboratory Technicians,29-2010,Clinical laboratory technologists and technicians,3300,Clinical laboratory technologists and technicians,False,True,0.0
+0.0,29-2099.01,Neurodiagnostic Technologists,29-2099,"Health Technologists and Technicians, All Other",29-2099,"Health technologists and technicians, all other",3545,Miscellaneous health technologists and technicians,False,True,0.0
+0.0,29-2099.05,Ophthalmic Medical Technologists,29-2099,"Health Technologists and Technicians, All Other",29-2099,"Health technologists and technicians, all other",3545,Miscellaneous health technologists and technicians,False,True,0.0
+0.0,29-2099.08,Patient Representatives,29-2099,"Health Technologists and Technicians, All Other",29-2099,"Health technologists and technicians, all other",3545,Miscellaneous health technologists and technicians,False,True,0.0
+1.0,31-9099.01,Speech-Language Pathology Assistants,31-9099,"Healthcare Support Workers, All Other",31-9099,"Healthcare support workers, all other",3655,Other healthcare support workers,False,True,0.7071067811865476
+0.0,31-9099.02,Endoscopy Technicians,31-9099,"Healthcare Support Workers, All Other",31-9099,"Healthcare support workers, all other",3655,Other healthcare support workers,False,True,0.7071067811865476
+0.0,33-3021.00,Detectives and Criminal Investigators,33-3021,Detectives and Criminal Investigators,33-3021,Detectives and criminal investigators,3820,Detectives and criminal investigators,False,True,0.5773502691896258
+0.0,33-3021.02,Police Identification and Records Officers,33-3021,Detectives and Criminal Investigators,33-3021,Detectives and criminal investigators,3820,Detectives and criminal investigators,False,True,0.5773502691896258
+1.0,33-3021.06,Intelligence Analysts,33-3021,Detectives and Criminal Investigators,33-3021,Detectives and criminal investigators,3820,Detectives and criminal investigators,False,True,0.5773502691896258
+0.0,33-3051.00,Police and Sheriff's Patrol Officers,33-3051,Police and Sheriff's Patrol Officers,33-3051,Police and sheriff's patrol officers,3870,Police officers,False,True,0.0
+0.0,33-3051.04,Customs and Border Protection Officers,33-3051,Police and Sheriff's Patrol Officers,33-3051,Police and sheriff's patrol officers,3870,Police officers,False,True,0.0
+0.0,35-3023.00,Fast Food and Counter Workers,35-3023,Fast Food and Counter Workers,35-3023,Fast food and counter workers,4055,Fast food and counter workers,False,True,0.0
+0.0,35-3023.01,Baristas,35-3023,Fast Food and Counter Workers,35-3023,Fast food and counter workers,4055,Fast food and counter workers,False,True,0.0
+1.0,39-9011.00,Childcare Workers,39-9011,Childcare Workers,39-9011,Childcare workers,4600,Childcare workers,False,True,0.0
+1.0,39-9011.01,Nannies,39-9011,Childcare Workers,39-9011,Childcare workers,4600,Childcare workers,False,True,0.0
+1.0,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011,"Sales representatives, wholesale and manufacturing, technical and scientific products",4850,"Sales representatives, wholesale and manufacturing",False,True,0.0
+1.0,41-4011.07,Solar Sales Representatives and Assessors,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011,"Sales representatives, wholesale and manufacturing, technical and scientific products",4850,"Sales representatives, wholesale and manufacturing",False,True,0.0
+1.0,43-5011.00,Cargo and Freight Agents,43-5011,Cargo and Freight Agents,43-5011,Cargo and freight agents,5500,Cargo and freight agents,False,True,0.0
+1.0,43-5011.01,Freight Forwarders,43-5011,Cargo and Freight Agents,43-5011,Cargo and freight agents,5500,Cargo and freight agents,False,True,0.0
+0.0,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,First-line supervisors of construction trades and extraction workers,6200,First-line supervisors of construction trades and extraction workers,False,True,0.0
+0.0,47-1011.03,Solar Energy Installation Managers,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,First-line supervisors of construction trades and extraction workers,6200,First-line supervisors of construction trades and extraction workers,False,True,0.0
+0.0,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",47-2152,"Plumbers, Pipefitters, and Steamfitters",47-2152,"Plumbers, pipefitters, and steamfitters",6442,"Plumbers, pipefitters, and steamfitters",False,True,0.7071067811865476
+1.0,47-2152.04,Solar Thermal Installers and Technicians,47-2152,"Plumbers, Pipefitters, and Steamfitters",47-2152,"Plumbers, pipefitters, and steamfitters",6442,"Plumbers, pipefitters, and steamfitters",False,True,0.7071067811865476
+0.0,47-4011.00,Construction and Building Inspectors,47-4011,Construction and Building Inspectors,47-4011,Construction and building inspectors,6660,Construction and building inspectors,False,True,0.0
+0.0,47-4011.01,Energy Auditors,47-4011,Construction and Building Inspectors,47-4011,Construction and building inspectors,6660,Construction and building inspectors,False,True,0.0
+0.0,51-8013.00,Power Plant Operators,51-8013,Power Plant Operators,51-8013,Power plant operators,8600,"Power plant operators, distributors, and dispatchers",False,True,0.0
+0.0,51-8013.03,Biomass Plant Technicians,51-8013,Power Plant Operators,51-8013,Power plant operators,8600,"Power plant operators, distributors, and dispatchers",False,True,0.0
+0.0,51-8013.04,Hydroelectric Plant Technicians,51-8013,Power Plant Operators,51-8013,Power plant operators,8600,"Power plant operators, distributors, and dispatchers",False,True,0.0
+0.0,51-9071.00,Jewelers and Precious Stone and Metal Workers,51-9071,Jewelers and Precious Stone and Metal Workers,51-9071,Jewelers and precious stone and metal workers,8750,Jewelers and precious stone and metal workers,False,True,0.7071067811865476
+1.0,51-9071.06,Gem and Diamond Workers,51-9071,Jewelers and Precious Stone and Metal Workers,51-9071,Jewelers and precious stone and metal workers,8750,Jewelers and precious stone and metal workers,False,True,0.7071067811865476
+0.0,51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,"Molders, shapers, and casters, except metal and plastic",8920,"Molders, shapers, and casters, except metal and plastic",False,True,0.0
+0.0,51-9195.03,"Stone Cutters and Carvers, Manufacturing",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,"Molders, shapers, and casters, except metal and plastic",8920,"Molders, shapers, and casters, except metal and plastic",False,True,0.0
+0.0,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,"Molders, shapers, and casters, except metal and plastic",8920,"Molders, shapers, and casters, except metal and plastic",False,True,0.0
+0.0,51-9195.05,"Potters, Manufacturing",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,"Molders, shapers, and casters, except metal and plastic",8920,"Molders, shapers, and casters, except metal and plastic",False,True,0.0
+1.0,53-1042.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",53-1042,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",9005,Supervisors of transportation and material moving workers,False,True,0.7071067811865476
+0.0,53-1042.01,Recycling Coordinators,53-1042,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",9005,Supervisors of transportation and material moving workers,False,True,0.7071067811865476
+0.0,53-6051.00,Transportation Inspectors,53-6051,Transportation Inspectors,53-6051,Transportation inspectors,9410,Transportation inspectors,False,True,0.0
+0.0,53-6051.01,Aviation Inspectors,53-6051,Transportation Inspectors,53-6051,Transportation inspectors,9410,Transportation inspectors,False,True,0.0
+0.0,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",53-6051,Transportation Inspectors,53-6051,Transportation inspectors,9410,Transportation inspectors,False,True,0.0
+0.0,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,"Laborers and freight, stock, and material movers, hand",9620,"Laborers and freight, stock, and material movers, hand",False,True,0.0
+0.0,53-7062.04,Recycling and Reclamation Workers,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,"Laborers and freight, stock, and material movers, hand",9620,"Laborers and freight, stock, and material movers, hand",False,True,0.0

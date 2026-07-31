@@ -1,6 +1,12 @@
-# Ignore the large IPUMS CPS extract file
-cps_*.csv
+# Ignore large IPUMS extract files
+cps*.csv
+usa*.csv
+
+# Ignore intermediate data checkpoints and temp files
+df*.csv
+panel*.csv
+data/checkpoints/
+temp/graphics/
 
 # Prevent Mac system hidden files from uploading
 .DS_Store
-df*.csv
