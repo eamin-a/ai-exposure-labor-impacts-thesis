@@ -10,3 +10,4 @@ temp/graphics/
 
 # Prevent Mac system hidden files from uploading
 .DS_Store
+.Rproj.user
